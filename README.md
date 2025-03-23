@@ -23,5 +23,5 @@ This makes it perfect for voice masking, TTS demonstrations, or just fun experim
 
 - Windows OS with SAPI5 voices
 - Python 3.8+
-- Installed libraries:
+- Installed libraries: pyttsx3 speechrecognition sounddevice
 
