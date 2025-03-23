@@ -14,7 +14,6 @@ This makes it perfect for voice masking, TTS demonstrations, or just fun experim
 - 🎧 **Speech-to-Speech** — say something, and the program repeats it
 - 🛠 **Pitch & Speed Control** — fine-tune how the voice sounds
 - ✍️ **Manual Input Mode** — type text and speak it with one click
-- 🧠 **Automatic Punctuation** — adds `.` and `,` based on pause duration
 - 🌙 **Minimal Dark UI** — clean, stylish, distraction-free
 
 ---
